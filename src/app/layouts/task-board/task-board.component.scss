@@ -1,0 +1,61 @@
+.fa:hover {
+  opacity: 0.7;
+}
+
+#contenu {
+  margin-top: 40px;
+}
+#cont {
+  margin-left: 300px;
+}
+#cong {
+  margin-left: 300px;
+}
+.fa-instagram {
+  color: #e84393;
+}
+.fa-youtube {
+  color: #e84118;
+  padding: 20px;
+}
+.fa-linkedin {
+  color: #0097e6;
+}
+.fa-twitter {
+  padding: 20px;
+  color: #0097e6;
+}
+.fa-fa-facebook {
+  padding: 20px;
+  color: #0097e6;
+}
+a {
+  height: 500px;
+  width: 500px;
+}
+
+a i {
+  transition: all 0.3s linear;
+}
+
+a:hover i {
+  transform: scale(1.4);
+}
+
+img {
+  width: 413px;
+  height: 532;
+  padding: 10px;
+  margin: 10px;
+}
+
+.box {
+  display: flex;
+  word-spacing: 1px;
+  justify-content: space-between;
+}
+
+body {
+  background-color: #f5f5f5;
+  color: black;
+}

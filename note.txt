@@ -1,0 +1,7 @@
+Dans firebase on se connecte a la base de donnée undergroung.
+on export les photos depuis l'ordi 
+puis pour renseigner le lien de la photo on va sur
+ 
+ sur Storage --> on a la liste des photos --> on clique sur la photo a gauche avec toute sa description 
+ pour avoir le lien sur (la barre de recherche ) sur l'onglet du navigateur --> puis on copie pour mettre dans la partie 
+ image.

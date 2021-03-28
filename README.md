@@ -157,3 +157,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 This project is licensed under the MIT License - see the [MIT license](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE) file for details
 "# mon-projet-repo"  
+"# Angular-Shop"  
