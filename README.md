@@ -39,7 +39,7 @@ Télécharger Angular CLI
 NodeJs
 
 Télécharger Nodejs
-Gestionnaire de packages - NPM / Yarn
+Gestionnaire de packages - NPM / Yarn  
 
 Clonez le référentiel et exécutez-le npm installsi vous utilisez npm comme gestionnaire de packages ou yarn installsi vous utilisez yarn comme gestionnaire de packages.
 
