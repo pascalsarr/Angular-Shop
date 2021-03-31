@@ -82,3 +82,16 @@ your registered data will be saved inside the firebase **clients** table.
           `
           
  
+Now you can able to access the Admin Privileges like `Creating Product, Removing Product, etc..`
+
+10. Run the Server.
+
+
+## How can I support the developer ?
+
+- Star my Github repo ⭐
+- Create pull requests, submit bugs, suggest new features or documentation updates 🛠
+
+## Screenshots:
+
+### Home Page:
