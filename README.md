@@ -16,3 +16,7 @@ Ce projet a été généré avec Angular CLI version 10.0.1.
    1.  Security
 
      - Implmented Authentication and Authorization
+## Tools and Technologies
+
+     - Technology: HTML, MDBootstrap, CSS, Angular-10, Firebase, i18n, Drag & Drop, Progressive Web Application, jsPDF (to download Receipt as PDF).
+     - Database : Angular Firebase (Realtime Database).
