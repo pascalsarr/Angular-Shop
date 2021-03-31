@@ -32,3 +32,17 @@ Ce projet a été généré avec Angular CLI version 10.0.1.
 - Service Workers
 - Pipes
 - Gaurds etc..
+# Installation
+
+1.  Angular CLI
+    - [Download Angular CLI](https://cli.angular.io/)
+    2.  NodeJs
+    - [Download Nodejs](https://nodejs.org/en/download/)
+    3.  Package Manager - NPM / Yarn
+    4.  Clone the repository and run `npm install` if you use **npm** as package manager or `yarn install` if you use **yarn** as package manager.
+    5.  Angular + Firebase Tutorial - [Angular + Firebase + Typescript — Step by step tutorial](https://medium.com/factory-mind/angular-firebase-typescript-step-by-step-tutorial-2ef887fc7d71)
+    6.  Activate Firebase Authentication Providers
+
+    `Authentication -> Sign-in-method -> Enable Email/Password & Google provider`
+
+    7.  Update the Firebase _(Realtime Database)_ Rules
