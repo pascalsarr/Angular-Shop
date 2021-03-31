@@ -70,7 +70,9 @@ Ce projet a été généré avec Angular CLI version 10.0.1.
 9.  For Admin Role `Register or SignIn with Google Auth`
 
 your registered data will be saved inside the firebase **clients** table.
- ```
+ 
+      
+          ```
              -clients
                 -LRSkWxGAKQAFZmyfsx6
                    -createdOn: "1542046725"
@@ -78,18 +80,5 @@ your registered data will be saved inside the firebase **clients** table.
                    -isAdmin: false      <--- Change this to true
                 ...
           `
-          `
-          `
-   Now you can able to access the Admin Privileges like `Creating Product, Removing Product, etc..`
-   10. Run the Server.
-
-## How can I support the developer ?
-
-- Star my Github repo ⭐
-- Create pull requests, submit bugs, suggest new features or documentation updates 🛠
-
-## Screenshots:
-
-### Home Page:
-
-![Home](https://user-images.githubusercontent.com/39752128/113196290-d8f76e80-9252-11eb-91ee-f922968c7cfc.PNG"HomePage")
+          
+ 
