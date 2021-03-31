@@ -80,4 +80,4 @@ your registered data will be saved inside the firebase **clients** table.
           `
           `
           `
-          Now you can able to access the Admin Privileges like `Creating Product, Removing Product, etc..`
+   Now you can able to access the Admin Privileges like `Creating Product, Removing Product, etc..`
