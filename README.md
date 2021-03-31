@@ -46,3 +46,14 @@ Ce projet a été généré avec Angular CLI version 10.0.1.
     `Authentication -> Sign-in-method -> Enable Email/Password & Google provider`
 
     7.  Update the Firebase _(Realtime Database)_ Rules
+         `Database -> Rules`
+
+           ```
+           {
+            "rules": {
+              ".read":true,
+              ".write": true
+                 }
+          }
+           `
+    8.  Configure your firebase configuration `src/environments/firebaseConfig.ts`
