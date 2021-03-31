@@ -97,3 +97,7 @@ Now you can able to access the Admin Privileges like `Creating Product, Removing
 ### Home Page:
 
 ![Home](https://user-images.githubusercontent.com/39752128/113197261-fa0c8f00-9253-11eb-8801-44d15990d69c.PNG)
+
+### Products Page:
+
+![Home](https://user-images.githubusercontent.com/39752128/113197506-4952bf80-9254-11eb-8843-0409bbbbae3f.PNG)
