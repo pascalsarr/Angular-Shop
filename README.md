@@ -92,4 +92,4 @@ your registered data will be saved inside the firebase **clients** table.
 
 ### Home Page:
 
-![Home](https://user-images.githubusercontent.com/39752128/113196044-8f0e8880-9252-11eb-84d1-2a17c71c904f.PNG)
+![Home](https://user-images.githubusercontent.com/39752128/113196290-d8f76e80-9252-11eb-91ee-f922968c7cfc.PNG"HomePage")
