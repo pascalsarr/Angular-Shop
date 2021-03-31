@@ -84,3 +84,12 @@ your registered data will be saved inside the firebase **clients** table.
    10. Run the Server.
 
 ## How can I support the developer ?
+
+- Star my Github repo ⭐
+- Create pull requests, submit bugs, suggest new features or documentation updates 🛠
+
+## Screenshots:
+
+### Home Page:
+
+![Home](https://user-images.githubusercontent.com/39752128/113196044-8f0e8880-9252-11eb-84d1-2a17c71c904f.PNG)
