@@ -67,3 +67,4 @@ Ce projet a été généré avec Angular CLI version 10.0.1.
             messagingSenderId: "YOUR_SENDER_ID"
            };
           ```
+9.  For Admin Role `Register or SignIn with Google Auth`
